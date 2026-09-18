@@ -1,0 +1,21 @@
+# Build output
+**/Debug/
+**/Release/
+**/output/
+**/*.elf
+**/*.hex
+**/*.bin
+**/*.map
+**/*.o
+**/*.obj
+**/*.d
+**/*.lst
+
+# IDE and local configuration
+.vs/
+.vscode/
+**/.settings/
+**/.metadata/
+**/*.user
+**/*.log
+**/*.bak
